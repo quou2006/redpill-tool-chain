@@ -4,7 +4,9 @@
         "vid": "0x46f4",
         "sn": "1234XXX123",
         "mac1": "00e04d710170",
-        "mac2": "00e14d710169"
+        "mac2": "00e14d710169",
+        "mac3": "00e24d710129",
+        "netif_num": 3
     },
     "synoinfo": {},
     "ramdisk_copy": {},
